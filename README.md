@@ -3,7 +3,7 @@ source: https://developer.nvidia.com/embedded/jetson-nano
 
 Nvidia's Jetson Nano is a small, powerful computer designed for embedded applications and AIoT. According to developer.nvidia.com, it delivers the power of modern AI in a small and affordable package.
 
-#Applications of Jetson Nano:
+# Applications of Jetson Nano:
 
 Robotics and autonomous systems: Jetson Nano can be used to develop robots and autonomous systems that can perform tasks such as image classification, object detection, and segmentation.
 Smart cities: Jetson Nano can be used to develop smart city applications such as traffic management, public safety, and environmental monitoring.
