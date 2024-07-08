@@ -148,4 +148,4 @@ Drones: Jetson Nano can be used to develop drones for applications such as aeria
         </div>
     </div>
 
-
+<img class="img-responsive" src="https://d29g4g2dyqv443.cloudfront.net/sites/default/files/akamai/embedded/images/jetsonNano/gettingStarted/Jetbot_animation_500x282_2.gif" width="610" height="345" alt="Documents and resources for Jetson platform" title="Documents and resources for Jetson platform" style="margin: 0 auto;">
