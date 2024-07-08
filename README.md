@@ -1,4 +1,4 @@
-# 1.-What-is-jetson-nano
+# 1. What-is-jetson-nano
 source: https://developer.nvidia.com/embedded/jetson-nano
 
 Nvidia's Jetson Nano is a small, powerful computer designed for embedded applications and AIoT. According to developer.nvidia.com, it delivers the power of modern AI in a small and affordable package.
