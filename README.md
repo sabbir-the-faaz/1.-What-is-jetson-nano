@@ -12,3 +12,5 @@ Medical imaging: Jetson Nano can be used to analyze medical images, such as X-ra
 Retail: Jetson Nano can be used to develop retail applications such as self-checkout systems and customer behavior analysis.
 Agriculture: Jetson Nano can be used to develop agricultural applications such as crop monitoring and yield prediction.
 Drones: Jetson Nano can be used to develop drones for applications such as aerial photography and videography, as well as search and rescue.
+
+![image](https://github.com/sabbir-the-faaz/1.-What-is-jetson-nano/assets/161277809/ca43b618-9727-48a8-bc42-aaa11f8644c0)
