@@ -20,3 +20,9 @@ Agriculture: Jetson Nano can be used to develop agricultural applications such a
 Drones: Jetson Nano can be used to develop drones for applications such as aerial photography and videography, as well as search and rescue.
 
 ![image](https://github.com/sabbir-the-faaz/1.-What-is-jetson-nano/assets/161277809/ca43b618-9727-48a8-bc42-aaa11f8644c0)
+
+
+
+![image](https://github.com/sabbir-the-faaz/1.-What-is-jetson-nano/assets/161277809/13485b84-26c4-4dcf-a6fc-3e5efbf69141)
+
+
